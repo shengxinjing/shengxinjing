@@ -1,5 +1,5 @@
 ### Hi 我是大圣
-
+![](https://visitor-badge.glitch.me/badge?page_id=shengxinjing.shengxinjing)
 **社区主页**  
 
 - [Bilibili](https://space.bilibili.com/26995758)
@@ -13,6 +13,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
 
 [![shengxinjing's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
 
