@@ -21,7 +21,7 @@
 
 [![shengxinjing's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" />
+<img height="150" src="https://cdn.jsdelivr.net/gh/shengxinjing/static/weichat.jpg" />
 <!--
 **shengxinjing/shengxinjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
