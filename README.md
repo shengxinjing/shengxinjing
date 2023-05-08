@@ -1,8 +1,4 @@
 ### Hi 我是大圣
-
-![](https://visitor-badge.glitch.me/badge?page_id=shengxinjing.shengxinjing)
-
-
 **社区主页**  
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D26995758)](https://space.bilibili.com/26995758)
